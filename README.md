@@ -35,8 +35,8 @@ This project is a chatbot application built using Mistral AI's language model, L
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Yores24/Multi-retriever-RAG.git
+   cd Multi-retriever-RAG
 2. Create and activate a virtual environment:
 
     ```bash
