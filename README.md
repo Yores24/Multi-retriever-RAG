@@ -51,7 +51,7 @@ This project is a chatbot application built using Mistral AI's language model, L
     streamlit run app.py
 
 ## Structure
-
+```
 Multi-Retriever-Rag
 ├── .env
 │  
@@ -78,7 +78,7 @@ Multi-Retriever-Rag
 ├── notebook
 │   └── lotr.ipynb
 └── requirements.txt
-
+```
 ## Usage
 
 -Place your PDF files in the specified data folder.
