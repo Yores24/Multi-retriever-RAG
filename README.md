@@ -1,6 +1,15 @@
 # Chatbot Application with Mistral AI and Streamlit
 
-[![Watch the Video](link-to-thumbnail-or-text-here)](link-to-video-here)
+### Demo Video
+
+https://github.com/user-attachments/assets/23ff4359-106b-44be-a45f-2924e93778fb
+
+
+
+
+https://github.com/user-attachments/assets/05a9dd3a-9d66-477f-a677-6ae694002fc9
+
+
 
 This project is a chatbot application built using Mistral AI's language model, LangChain's conversational retrieval capabilities, and Streamlit for a user-friendly interface. It supports document ingestion, intelligent retrieval, and conversational capabilities with memory.
 
